@@ -1,26 +1,37 @@
-# Hi there! I'm Jhuniya Rizza Viernes 👋
+<h1 align="center">Hi, I'm Jhuniya Rizza Viernes Atieh! </h1>
 
-🎓 Software Engineering Student at UTS  
-✈️ Former Flight Attendant  
-💻 Learning Java, Python, Web Development, and Cybersecurity  
-🛡️ Currently building my cybersecurity foundation through CodeCademy,TryHackMe and CompTIA Security+ preparation  
+<p align="center">
+  Most people call me Rizza.
+</p>
+
+<p align="center">
+ 💻 Software Engineering Student at UTS   |   ✈️Former Flight Attendant   |   🛡️Cybersecurity Learner
+</p>
+
+<p align="center">
+  Building my path from cabin crew to code — with a growing focus on cybersecurity, secure systems, and continuous learning.
+</p>
 
 ---
 
 ## About Me
 
-I am a Software Engineering student at UTS with a growing passion for cybersecurity, programming, and web development. Before starting my journey in tech, I worked as a flight attendant and senior cabin crew member, where I developed strong skills in communication, safety, problem-solving, and working under pressure.
+I am a Software Engineering student at UTS, currently building a strong foundation in programming, web development, Linux, networking, and cybersecurity.
 
-Now, I am bringing that same discipline into technology. I am currently learning Java, Python, Linux, networking, and cybersecurity fundamentals as I work toward my goal of becoming a Security Engineer.
+Before starting my journey in tech, I worked as a flight attendant and senior cabin crew member. That experience shaped the way I work today: calm under pressure, detail-oriented, safety-focused, and committed to clear communication.
+
+Now, I am bringing that same discipline into technology as I work toward my goal of becoming a Security Engineer. I am currently learning through Codecademy, TryHackMe, and CompTIA Security+ preparation.
+
+Outside of tech, I enjoy matcha, a good Chardonnay, and bold Shiraz — because balance matters too.
 
 ---
 
 ## Current Focus
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-brightgreen?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Goal%202026-blue?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Student-purple?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundations-brightgreen?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Hands--on%20Labs-red?style=for-the-badge)
+![Security+](https://img.shields.io/badge/Security%2B-Certification%20Goal-blue?style=for-the-badge)
+![UTS](https://img.shields.io/badge/UTS-Software%20Engineering-purple?style=for-the-badge)
 
 ---
 
@@ -38,9 +49,11 @@ Now, I am bringing that same discipline into technology. I am currently learning
 
 ### Tools and Platforms
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
 
 ---
 
@@ -67,9 +80,18 @@ You can follow my progress here:
 - Prepare for CompTIA Security+
 - Create beginner-friendly cybersecurity notes
 - Build small Python and security-related projects
+- Document my learning consistently through GitHub
+
+---
+
+## A Little More About Me
+
+From safety procedures in aviation to secure systems in technology, I have always been drawn to work that requires focus, responsibility, and calm decision-making.
+
+I am still early in my cybersecurity journey, but I am serious about building the foundations properly — one lab, one concept, and one project at a time.
 
 ---
 
 ## Let's Connect
 
-I am always open to learning, improving, and connecting with others in tech and cybersecurity.
+I am always open to learning, improving, and connecting with others in tech, software engineering, and cybersecurity.
