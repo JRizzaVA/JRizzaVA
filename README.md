@@ -27,11 +27,15 @@ Outside of tech, I enjoy matcha, a good Chardonnay, and bold Shiraz — because 
 ---
 
 ## Current Focus
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-Foundations-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TryHackMe-Hands--on%20Labs-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%2B-Certification%20Goal-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UTS-Software%20Engineering-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-UTS%20Student-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Foundations-2E8B57?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TryHackMe-Hands--on%20Labs-C11111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Certification%20Goal-0078D4?style=for-the-badge" />
 </p>
 
 ---
