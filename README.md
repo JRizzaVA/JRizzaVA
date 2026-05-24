@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  Building my path from cabin crew to code — with a growing focus on cybersecurity, secure systems, and continuous learning.
+ Trading cabin announcements for command lines : From airspace to cyberspace.
+Building secure systems with the discipline learned above 30,000 feet.
 </p>
 
 ---
