@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
- Trading cabin announcements for command lines : From airspace to cyberspace.
-Building secure systems with the discipline learned above 30,000 feet.
+  Trading cabin announcements for command lines.<br>
+  From airspace to cyberspace.<br><br>
+  <i>Building secure systems with the discipline learned above 30,000 feet.</i>
 </p>
 
 ---
